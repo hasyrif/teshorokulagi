@@ -1,5 +1,4 @@
 <?PHP
-echo 'HAI PAK';
-echo 'HAI CES';
-echo 'hei'
+echo 'data baru';
+
 ?>
