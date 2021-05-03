@@ -1,4 +1,4 @@
 <?PHP
-echo 'data baru';
+echo 'data baru lagi';
 
 ?>
