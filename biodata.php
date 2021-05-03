@@ -1,3 +1,3 @@
 <?PHP
-echo 'HAI';
+echo 'HAI BRO';
 ?>
